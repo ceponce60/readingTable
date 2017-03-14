@@ -1,5 +1,6 @@
 # ReduxSimpleStarter
 
+IDK, just email me...
 
 ###Getting Started###
 
